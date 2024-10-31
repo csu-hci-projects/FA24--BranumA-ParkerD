@@ -1,6 +1,5 @@
 # Links
-Had trouble pushing the large files to the repo so here is a link to the zip file. There is another
-zip file in this repo:
+Had trouble pushing the large files to the repo so here is a link to the zip file:
 https://drive.google.com/file/d/1asNKW1oUbZjwr_Uh07P8bTUVqv-8HsFa/view?usp=sharin
 
 Youtube video (covers game and all relevant blueprints ~9 minutes):
