@@ -1,16 +1,23 @@
 # Links
-Had trouble pushing the large files to the repo so here is a link to the zip file:
-https://drive.google.com/file/d/1asNKW1oUbZjwr_Uh07P8bTUVqv-8HsFa/view?usp=sharin
+Not Applicable Here
 
-Youtube video (covers game and all relevant blueprints ~9 minutes):
+HW1 Youtube video:
 https://youtu.be/Hsj6JLclspc
+
+HW2 Youtube video:
+
 
 # Team Members:
 Drew Parker
 
 # What was done by each member
+HW1 (FirstPerson):
 Completed each section of the assignment, also added custom health bars to each target to show the 
-user how much health each target has left
+user how much health each target has left.
+
+HW2 (Vr):
+Completed each section, also added a counter on the gun for how many targets are left to show the
+player what the win condition is.
 
 # Running the game
-To run my game, navigate to "My Project" -> "Project Build -> "Windows" -> "MyProject.exe"
+To run HW1, navigate to "My Project" -> "Project Build -> "Windows" -> "MyProject.exe"
