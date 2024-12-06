@@ -54,18 +54,6 @@ Vr/Binaries/*
 FirstPerson/Plugins/**/Binaries/*
 Vr/Plugins/**/Binaries/*
 
-# Builds
-FirstPerson/Build/*
-Vr/Build/*
-
-# Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!FirstPerson/Build/*/
-FirstPerson/Build/*/**
-!FirstPerson/Build/*/PakBlacklist*.txt
-!Vr/Build/*/
-Vr/Build/*/**
-!Vr/Build/*/PakBlacklist*.txt
-
 # Don't ignore icon files in Build
 !FirstPerson/Build/**/*.ico
 !Vr/Build/**/*.ico
