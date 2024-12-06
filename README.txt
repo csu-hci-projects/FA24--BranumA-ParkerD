@@ -20,4 +20,8 @@ Completed each section, also added a counter on the gun for how many targets are
 player what the win condition is.
 
 # Running the game
-To run HW1, navigate to "My Project" -> "Project Build -> "Windows" -> "MyProject.exe"
+To find the builds of both the first person and vr games for HW1 and HW2, navigate to the google
+drive links below...
+
+FirstPerson Build: https://drive.google.com/file/d/1TccsIL4k4qa9vLJdFFDOuGnykCNWZqUT/view?usp=sharing
+VR Build: Build kept failing, see/run project files to run the project
