@@ -1,11 +1,10 @@
 # Links
-Not Applicable Here
-
 HW1 Youtube video:
 https://youtu.be/Hsj6JLclspc
 
 HW2 Youtube video:
-
+Showcase: https://youtu.be/OTRgD6UD0w8
+Blueprint Explanation: https://youtu.be/Q5H3_ygBMGo
 
 # Team Members:
 Drew Parker
